@@ -13,7 +13,7 @@ function App() {
 
        <div className="text-lg md:text-2x1 lg:text-3x1 py-2 px-4 md:py-4 md:px-10 lg:py-6
       lg:px:12 bg-white bg-opacity-10 w-fit mx-auto mb-8 rounded-full">
-         999,726 members
+         A brand new world awaits you!
        </div>
 
        <form 
@@ -43,7 +43,7 @@ function App() {
      </main>
 
      <footer className="container mx-auto p-6 flex flex-col md:flex-row items-center justify-between">
-      <p>built by CJ</p>
+      <p>2022 CJ Trahey</p>
       <div className="flex -mx-6">
         <a href="#" className="mx-3 hover:opacity-80 duration-150">About us</a> |
         <a href="#" className="mx-3 hover:opacity-80 duration-150">Privacy</a> |
